@@ -4,3 +4,6 @@ This repository contains SQL queries designed to help data analysts and BI profe
 
 ---
 
+##🌟About Me
+--
+Hey there! I'm Himanshu — a Data Analyst passionate about uncovering insights and transforming data into strategy
